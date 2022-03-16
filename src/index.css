@@ -10,7 +10,7 @@
 
 @layer base {
 	body {
-		@apply min-w-[400px];
+		@apply min-w-[500px];
 	}
 
 	#root {
